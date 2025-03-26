@@ -1,0 +1,8 @@
+conda/
+data/
+docs/
+
+*.yml
+*.zip
+*.toml
+*.cfg
